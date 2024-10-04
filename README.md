@@ -63,7 +63,7 @@ For questions, suggestions, or feedback, feel free to reach out:
 
 ## 🌟 **Screenshots**
 
-Add any relevant screenshots or usage examples to showcase the tool's capabilities!
+![screenshot](https://raw.githubusercontent.com/Chanuka-KL/Assets/refs/heads/main/20241004_142836.png?token=GHSAT0AAAAAACYNVWTBWOWDLHMXZE76UXBMZX7WPUA)
 
 ---
 

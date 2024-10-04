@@ -63,7 +63,7 @@ For questions, suggestions, or feedback, feel free to reach out:
 
 ## 🌟 **Screenshots**
 
-![screenshot](https://raw.githubusercontent.com/Chanuka-KL/Assets/refs/heads/main/20241004_142836.png?token=GHSAT0AAAAAACYNVWTBWOWDLHMXZE76UXBMZX7WPUA)
+![screenshot](https://raw.githubusercontent.com/Chanuka-KL/Assets/refs/heads/main/20241004_142836.png?token=GHSAT0AAAAAACYNVWTBBZY5YIFBKSPQPZY2ZYAG7TQ)
 
 ---
 
